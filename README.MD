@@ -19,10 +19,16 @@
 - **Cross-Platform Support**: ROS 2 runs on Linux, Windows, and macOS, facilitating integration with cloud services like AWS.
 - **Common Libraries**: All client libraries share a common implementation in C, known as **rcl**.
 
-### Version Support
 
-- **ROS Melodic**: Ubuntu 18.04 LTS
-- **ROS Noetic**: Ubuntu 20.04 LTS
+## ROS 2 Version Support
+
+ROS 2 supports various versions of Ubuntu and other operating systems. Here are the primary supported versions:
+
+- **Ubuntu 20.04 LTS (Focal Fossa)**: Compatible with ROS 2 Foxy and Galactic.
+- **Ubuntu 22.04 LTS (Jammy Jellyfish)**: Compatible with ROS 2 Humble and later versions.
+- **Windows**: Supported on Windows 10 and later versions.
+- **macOS**: Supported on macOS 10.15 (Catalina) and later versions.
+
 
 ## Learning Roadmap
 
